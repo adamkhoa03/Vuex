@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Customize extensition
+1. ESLint
+2. Vetur
+3. Vue VSCode Snippets
+4. Vuter
+
+### Package required
+```
+npm install vuex
+npm install axios
+npm install vue-uuid
+```
